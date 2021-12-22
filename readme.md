@@ -19,6 +19,32 @@
 
 ## Test server
     
-    php -S 0.0.0.0:9800 -t public
-    
-http://localhost
+    php -S 0.0.0.0:9900 -t public
+
+http://localhost:9900/index.php
+
+## Screenshots
+
+### Landing page
+
+![](screenshots/landing-page.jpg)
+
+### Sign in page
+
+![](screenshots/sign-in-page.jpg)
+
+### Sign up page
+
+![](screenshots/sign-up-page.jpg)
+
+### Password reset page
+
+![](screenshots/password-reset-page.jpg)
+
+### Password reset confirmation page
+
+![](screenshots/password-reset-confirmation-page.jpg)
+
+### Secret page
+
+![](screenshots/secret-page.jpg)
